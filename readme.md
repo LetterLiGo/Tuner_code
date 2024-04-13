@@ -1,3 +1,22 @@
+# Enrollment-stage Backdoor Attacks on Speaker Recognition Systems via Adversarial Ultrasound
+
+This is the core implementation for (Tuner) "[Enrollment-stage Backdoor Attacks on Speaker Recognition Systems via Adversarial Ultrasound](https://arxiv.org/abs/2306.16022)", Published in Internet of Things Journal (SCI, IF:11.1).
+
+## Citation
+If you think this repo helps you, please consider cite in the following format.
+```latex
+@ARTICLE{li2023tuner,
+  author={Li, Xinfeng and Ze, Junning and Yan, Chen and Cheng, Yushi and Ji, Xiaoyu and Xu, Wenyuan},
+  journal={IEEE Internet of Things Journal}, 
+  title={Enrollment-Stage Backdoor Attacks on Speaker Recognition Systems via Adversarial Ultrasound}, 
+  year={2024},
+  volume={11},
+  number={8},
+  pages={13108-13124},
+  keywords={Ultrasonic imaging;Spectrogram;Tuners;Speaker recognition;Acoustics;Training;Microphones;Adversarial ultrasound;backdoor attack;enrollment;speaker recognition},
+  doi={10.1109/JIOT.2023.3328253}}
+```
+
 # Requirements
 ```
 pip install -r requirements.txt
